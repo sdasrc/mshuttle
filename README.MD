@@ -6,7 +6,7 @@ First, install sshutle.
 
 OR
 
-Use the respective package manager commands of your distro.
+Use the respective package manager commands of your distro. Detailed instructions can be obtained on the [sshuttle git repo](https://github.com/sshuttle/sshuttle).
 
 Download the .sh file or clone this repo.
 
@@ -16,7 +16,7 @@ Add executable permissions to the script using
 
 Run the script (sshuttle needs sudo permissions) by
 
-./msshuttle.sh USERNAME
+`./msshuttle.sh USERNAME`
 
 where USERNAME is the one you use to login via SSH on the cluster/machine.
 
